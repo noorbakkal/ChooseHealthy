@@ -7,7 +7,7 @@ using Microsoft.Bot.Connector;
 
 namespace ChooseHealthy
 {
-    [BotAuthentication]
+    //[BotAuthentication]
     public class MessagesController : ApiController
     {
         /// <summary>
