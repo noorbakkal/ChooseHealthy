@@ -1,4 +1,4 @@
-# ChooseHealthy
+# StayHealthy
 A complete chatbot framework that work with multiple services such as (Alexa, Google, Cortana, etc.)
 
 Steps to make this work:
